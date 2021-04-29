@@ -1,0 +1,8 @@
+﻿  test.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\hardwareproxypattern\test.cpp(14): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int *'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\hardwareproxypattern\test.cpp(21): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int *'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\hardwareproxypattern\test.cpp(28): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int *'
+  MotorProxy.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\hardwareproxypattern\motorproxy.cpp(132): warning C4101: 'dPi': unreferenced local variable
+  Generating Code...
+  HardwareProxyPattern.vcxproj -> C:\Users\Tim\School\Level 6\CI6300 Individual Project\Code\Patterns\HardwarePatterns\Debug\HardwareProxyPattern.exe

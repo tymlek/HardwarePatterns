@@ -1,0 +1,3 @@
+﻿  test.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\hardwareproxypattern\test.cpp(16): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int *'
+  HardwareProxyPattern.vcxproj -> C:\Users\Tim\School\Level 6\CI6300 Individual Project\Code\Patterns\HardwarePatterns\Debug\HardwareProxyPattern.exe

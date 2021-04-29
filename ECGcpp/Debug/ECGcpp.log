@@ -1,0 +1,36 @@
+﻿  main.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecg_module.h(21): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\histogramdisplay.h(16): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(34): warning C4099: 'TimeMarkedData': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\timemarkeddata.h(8): note: see declaration of 'TimeMarkedData'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(23): warning C4154: deletion of an array expression; conversion to pointer supplied
+  TestBuilder.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecg_module.h(21): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\histogramdisplay.h(16): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(34): warning C4099: 'TimeMarkedData': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\timemarkeddata.h(8): note: see declaration of 'TimeMarkedData'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(23): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\testbuilder.cpp(12): warning C4099: 'TMDQueue': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(8): note: see declaration of 'TMDQueue'
+  TMDQueue.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(34): warning C4099: 'TimeMarkedData': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\timemarkeddata.h(8): note: see declaration of 'TimeMarkedData'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(23): warning C4154: deletion of an array expression; conversion to pointer supplied
+  HistogramDisplay.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\histogramdisplay.h(16): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(34): warning C4099: 'TimeMarkedData': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\timemarkeddata.h(8): note: see declaration of 'TimeMarkedData'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(23): warning C4154: deletion of an array expression; conversion to pointer supplied
+  ECG_Module.cpp
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecg_module.h(21): warning C4150: deletion of pointer to incomplete type 'TMDQueue'; no destructor called
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\ecgpkg.h(11): note: see declaration of 'TMDQueue'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(34): warning C4099: 'TimeMarkedData': type name first seen using 'class' now seen using 'struct'
+  c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\timemarkeddata.h(8): note: see declaration of 'TimeMarkedData'
+c:\users\tim\school\level 6\ci6300 individual project\code\patterns\hardwarepatterns\ecgcpp\tmdqueue.h(23): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating Code...
+  ECGcpp.vcxproj -> C:\Users\Tim\School\Level 6\CI6300 Individual Project\Code\Patterns\HardwarePatterns\Debug\ECGcpp.exe

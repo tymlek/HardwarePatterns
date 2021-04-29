@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HardwareProxyPattern.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UltimateO2Adapter.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  test.cpp
+  IO2Sensor.cpp
+  HardwareAdapterPattern.vcxproj -> C:\Users\Tim\School\Level 6\CI6300 Individual Project\Code\Patterns\HardwarePatterns\Debug\HardwareAdapterPattern.exe
